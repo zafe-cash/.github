@@ -8,6 +8,4 @@ goes out only when **t of the N** members approve it on their phones.
 - **No blind signing:** every phone rebuilds and checks the transaction before it signs.
 - **Blind relay:** the server only forwards encrypted messages and can't spend.
 
-> Pre-release, testnet only, not audited. Don't use it with real funds.
-
 [Website](https://zafe.cash) · [Code](https://github.com/zafe-cash/zafe) · hello@zafe.cash
